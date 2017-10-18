@@ -1,0 +1,48 @@
+/* app styles */
+header {
+  background: rgb(100, 100, 100);
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+h1 {
+  backgound: rgb(250, 100, 100);
+  font-size: 50px;
+  margin-left: 10px;
+}
+
+h2 {
+  background: rgb(250, 100, 100);
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+h3 {
+  background: rgb(250, 100, 100);
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+h4 {
+  background: rgb(250, 100, 100);
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+h5 {
+  background: rgb(250, 100, 100);
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+h6 {
+  background: rgb(250, 100, 100);
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+p {
+  font-size: 15px;
+  margin-left: 35px;
+  background: rgb(250, 20, 20);
+}
