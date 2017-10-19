@@ -1,8 +1,10 @@
 /* app styles */
+
 header {
+  border: 2px solid black;
   background: rgb(100, 100, 100);
   padding: 10px;
-  margin-bottom: 15px;
+  margin: 15px;
 }
 
 h1 {
@@ -12,37 +14,61 @@ h1 {
 }
 
 h2 {
+  border: 3px solid red;
   background: rgb(250, 100, 100);
   font-size: 20px;
-  margin-left: 10px;
+  margin: 15px 1393px 10px 10px;
 }
 
 h3 {
+  border: 3px solid red;
   background: rgb(250, 100, 100);
   font-size: 20px;
-  margin-left: 10px;
+  margin: 15px 1300px 10px 10px;
 }
 
 h4 {
+  border: 3px solid red;
   background: rgb(250, 100, 100);
   font-size: 20px;
-  margin-left: 10px;
+  margin: 15px 1275px 10px 10px;
 }
 
 h5 {
+  border: 3px solid red;
   background: rgb(250, 100, 100);
   font-size: 20px;
-  margin-left: 10px;
+  margin: 15px 1355px 10px 10px;
 }
 
 h6 {
+  border: 3px solid red;
   background: rgb(250, 100, 100);
   font-size: 20px;
-  margin-left: 10px;
+  margin: 15px 1201px 10px 10px;
 }
 
 p {
+  border: 1px solid black;
   font-size: 15px;
-  margin-left: 35px;
+  margin: 25px 1070px 25px 35px;
   background: rgb(250, 20, 20);
+}
+
+ol {
+  border: 2px solid black;
+  font-size: 15px;
+  margin: 25px 1320px 25px 35px;
+  background: rgb(250, 20, 20);
+}
+
+ul {
+  border: 2px solid black;
+  font-size: 15px;
+  margin: 25px 1205px 25px 35px;
+  background: rgb(250, 20, 20);
+}
+
+html {
+  background: solid dark grey;
 }
